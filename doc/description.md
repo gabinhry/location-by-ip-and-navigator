@@ -3,7 +3,7 @@ title: Locate your user by navigator permission or IP address
 description: Locate your user by navigator or using ip-api
 ogtitle: Locate your user by navigator permission or IP address
 ogdescription: Locate your user by navigator or using ip-api
-ogimage: https://ip-api.com/docs/static/bg.jpg
+ogimage: https://fmp-module-images.s3.eu-west-3.amazonaws.com/ip-api.jpg
 ---
 
 This module will allow you to locate your user by navigator permission, or by IP address.
