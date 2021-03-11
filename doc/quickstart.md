@@ -21,11 +21,4 @@ Add geolocation.service.ts in your frontend/src/services
 ### Step 7
 Add geolocation.utils.ts in your frontend/src/utils 
 
-### Step 8
-Add the example folder in your frontend/src/pages <br/>
-Add the page in `page.navigation.tsx`:<br/>
-```
-<Route exact path="/example" component={ExampleScreen} />
-```
-
 That's it ! :rocket:
