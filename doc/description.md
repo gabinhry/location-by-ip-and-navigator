@@ -15,3 +15,5 @@ In this module you'll have :
 - Navigator coordinate ask
 - IP get by the nest backend
 - Calls to a service api-ip.com to get the location of the IP
+
+You can use this module to learn how to locate your users (with their consent!) or just to copy past it in your project to get something working directly. ¯&#92;&#95;(ツ)&#95;/¯
